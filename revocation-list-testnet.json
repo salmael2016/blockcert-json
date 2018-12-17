@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://github.com/salmael2016/blockcert-json/blob/master/issuer-testnet.json",
+  "id": "https://github.com/salmael2016/blockcert-json/blob/master/revocation-list-testnet.json",
   "type": "RevocationList",
   "issuer": "https://github.com/salmael2016/blockcert-json/blob/master/issuer-testnet.json",
   "revokedAssertions": [
