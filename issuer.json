@@ -6,7 +6,7 @@
   "type": "Profile",
   "id": "https://github.com/salmael2016/blockcert-json/blob/master/issuer.json",
   "name": "salma",
-  "url": "https://www.issuer.org",
+  "url": "https://github.com/salmael2016/blockcert-json/blob/master/issuer.json",
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [{
     "id": "ecdsa-koblitz-pubkey:0xbb8CAa0853223B2e2c494918aa2ABDebFf3ceEDC",
