@@ -7,7 +7,7 @@
   },
   "type": "Assertion",
   "verification": {
-    "publicKey": "ecdsa-koblitz-pubkey:0x3e2fcdb2b84a3a2b8b301d80ee995b51260d2fd9",
+    "publicKey": "ecdsa-koblitz-pubkey:0xbb8CAa0853223B2e2c494918aa2ABDebFf3ceEDC",
     "type": ["MerkleProofVerification2017", "Extension"]
   },
   "@context": ["https://w3id.org/openbadges/v2", "https://w3id.org/blockcerts/v2"],
