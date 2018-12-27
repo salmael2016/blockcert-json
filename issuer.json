@@ -10,7 +10,7 @@
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:0xbb8CAa0853223B2e2c494918aa2ABDebFf3ceEDC",
+      "id": "ecdsa-koblitz-pubkey:0xbb8caa0853223b2e2c494918aa2abdebff3ceedc",
       "created": "2017-06-29T14:48:03.814936+00:00"
     }
   ],
