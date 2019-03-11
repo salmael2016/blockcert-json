@@ -4,13 +4,13 @@
     "https://w3id.org/blockcerts/v2"
   ],
   "type": "Profile",
-  "id": "https://raw.githubusercontent.com/salmael2016/blockcert-json/master/issuer.json",
+  "id": "https://raw.githubusercontent.com/salmael2016/blockcert-json/master/issuer2.json",
   "name": "University of Learning",
   "url": "https://www.issuer.org",
   "introductionURL": "https://www.issuer.org/intro/",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:0xbb8caa0853223b2e2c494918aa2abdebff3ceedc",
+      "id": "ecdsa-koblitz-pubkey:0x80a8bbd0d70347845b7347feba223cdd179c3edb",
       "created": "2017-06-29T14:48:03.814936+00:00"
     }
   ],
