@@ -4,11 +4,11 @@
   "type": "RevocationList",
   "issuer": "https://raw.githubusercontent.com/salmael2016/blockcert-json/master/issuer.json",
   "revokedAssertions": [{
-      "id": "urn:uuid:93019408-acd8-4420-be5e-0400d643954a",
+      "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
       "revocationReason": "Honor code violation"
     },
     {
-      "id": "urn:uuid:eda7d784-c03b-40a2-ac10-4857e9627329",
+      "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
       "revocationReason": "Issued in error."
     }
   ]
