@@ -2,7 +2,7 @@
   "@context": "https://w3id.org/openbadges/v2",
   "id": "https://raw.githubusercontent.com/salmael2016/blockcert-json/master/revocation-list.json",
   "type": "RevocationList",
-  "issuer": "https://raw.githubusercontent.com/salmael2016/blockcert-json/master/issuer.json",
+  "issuer": "http://issuer.doccerts.com/issuer/1412777203",
   "revokedAssertions": [{
       "id": "urn:uuid:usmba-test123-120911192",
       "revocationReason": "Honor code violation"
